@@ -1,0 +1,130 @@
+{
+  "hero": "hero-banner.jpg",
+  "logo": "LOGO3d.png",
+  "events": {
+    "thanh-lap": {
+      "cover": "2019-thanh-lap-cover.jpg",
+      "gallery": [
+        "2019-thanh-lap-3dtv-01.jpg",
+        "2019-thanh-lap-3dtv-02.jpg"
+      ]
+    },
+    "videc-2024": {
+      "cover": "2024-08-videc-cover.jpg",
+      "gallery": [
+        "2024-08-videc-2024-01.jpg",
+        "2024-08-videc-2024-02.jpg",
+        "2024-08-videc-2024-03.jpg"
+      ]
+    },
+    "trien-lam": {
+      "cover": "2025-10-trien-lam-cover.jpg",
+      "gallery": [
+        "2025-10-trien-lam-chien-luoc-01.jpg",
+        "2025-10-trien-lam-chien-luoc-02.jpg",
+        "2025-10-trien-lam-chien-luoc-03.jpg"
+      ]
+    },
+    "hidec-2025": {
+      "cover": "2025-11-hidec-cover.jpg",
+      "gallery": [
+        "2025-11-hidec-01.jpg",
+        "2025-11-hidec-02.jpg",
+        "2025-11-hidec-03.jpg",
+        "2025-11-hidec-04.jpg",
+        "2025-11-hidec-05.jpg",
+        "2025-11-hidec-06.jpg"
+      ]
+    },
+    "hue": {
+      "cover": "2025-12-hue-cover.jpg",
+      "gallery": [
+        "2025-12-hue-01.jpg",
+        "2025-12-hue-02.jpg",
+        "2025-12-hue-03.jpg",
+        "2025-12-hue-04.jpg",
+        "2025-12-hue-05.jpg",
+        "2025-12-hue-06.jpg",
+        "2025-12-hue-07.jpg",
+        "2025-12-hue-08.jpg",
+        "2025-12-hue-09.jpg"
+      ]
+    },
+    "long-hau": {
+      "cover": "2026-03-long-hau-cover.jpg",
+      "gallery": [
+        "2026-03-long-hau-01.jpg",
+        "2026-03-long-hau-02.jpg",
+        "2026-03-long-hau-03.jpg",
+        "2026-03-long-hau-04.jpg"
+      ]
+    },
+    "smart-healthcare": {
+      "cover": "2026-04-smart-healthcare-cover.jpg",
+      "gallery": [
+        "2026-04-smart-healthcare-01.jpg",
+        "2026-04-smart-healthcare-02.jpg",
+        "2026-04-smart-healthcare-03.jpg",
+        "2026-04-smart-healthcare-04.jpg",
+        "2026-04-smart-healthcare-05.jpg"
+      ]
+    },
+    "ham-mat": {
+      "cover": "2026-05-ham-mat-cover.jpg",
+      "gallery": [
+        "2026-05-ham-mat-01.jpg",
+        "2026-05-ham-mat-02.jpg",
+        "2026-05-ham-mat-03.jpg",
+        "2026-05-ham-mat-04.jpg",
+        "2026-05-ham-mat-05.jpg",
+        "2026-05-ham-mat-06.jpg",
+        "2026-05-ham-mat-07.jpg",
+        "2026-05-ham-mat-08.jpg"
+      ]
+    },
+    "cleft-summit": {
+      "cover": "2026-09-cleft-summit-cover.JPG",
+      "gallery": [
+        "2026-09-cleft-summit-01.jpg",
+        "2026-09-cleft-summit-02.jpg",
+        "2026-09-cleft-summit-03.JPG",
+        "2026-09-cleft-summit-04.jpg",
+        "2026-09-cleft-summit-05.jpg",
+        "2026-09-cleft-summit-06.JPG",
+        "2026-09-cleft-summit-07.JPG",
+        "2026-09-cleft-summit-08.JPG",
+        "2026-09-cleft-summit-09.JPG",
+        "2026-09-cleft-summit-10.JPG",
+        "2026-09-cleft-summit-11.JPG",
+        "2026-09-cleft-summit-12.JPG",
+        "2026-09-cleft-summit-13.JPG"
+      ]
+    },
+    "ky-niem-7-nam": {
+      "cover": null,
+      "gallery": []
+    }
+  },
+  "albums": {
+    "team-building": [
+      "team-building-1.jpg",
+      "team-building-2.jpg",
+      "team-building-3.jpg"
+    ],
+    "noel-2025": [
+      "noel-2025-01.jpg",
+      "noel-2025-02.jpg",
+      "noel-2025-03.jpg",
+      "noel-2025-04.jpg",
+      "noel-2025-05.jpg",
+      "noel-2025-06.jpg",
+      "noel-2025-07.jpg",
+      "noel-2025-08.jpg"
+    ],
+    "tap-the-2026": [
+      "tap-the-2026-01.jpg",
+      "tap-the-2026-02.jpg",
+      "tap-the-2026-03.jpg"
+    ]
+  }
+}
