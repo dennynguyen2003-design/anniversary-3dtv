@@ -9,7 +9,7 @@ export function Hero() {
   }
   return (
     <section id="hero">
-      <img className="hero-img" src={imgUrl(HERO_FILE)} alt="Poster kỷ niệm 7 năm thành lập 3D Tech Vision" loading="eager" fetchPriority="high" decoding="async" />
+      <img className="hero-img" src={imgUrl(HERO_FILE)} alt="Poster kỷ niệm 7 năm thành lập 3D Tech Vision" loading="eager" {...{ fetchpriority: 'high' }} decoding="async" />
       <a className="btn" href="#journey" onClick={onCta}>Cùng nhìn lại hành trình</a>
     </section>
   )

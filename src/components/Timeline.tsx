@@ -81,7 +81,7 @@ function EventItem({ ev, k, big, paused, onOpen }: ItemProps) {
   return (
     <div ref={ref} className={`ev rv${visible ? ' in' : ''}`}>
       <div
-        className="card glass"
+        className={`card glass${n ? '' : ' nopic'}`}
         role={n ? 'button' : undefined}
         tabIndex={n ? 0 : undefined}
         onClick={open}
@@ -108,9 +108,7 @@ function EventItem({ ev, k, big, paused, onOpen }: ItemProps) {
               </>
             )}
           </div>
-        ) : (
-          <div className="ph" style={{ aspectRatio: '16/10' }}><span>Chưa có ảnh trong repository</span></div>
-        )}
+        ) : null}
         <div className="bd">
           <div className="date">{ev.date}</div>
           <h3>{ev.title}</h3>

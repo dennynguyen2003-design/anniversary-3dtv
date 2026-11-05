@@ -7,7 +7,7 @@ export function Nav() {
       <div className="l">
         <a href="#journey">Hành trình</a>
         <a href="#timeline">Timeline</a>
-        <a href="#moments">Khoảnh khắc</a>
+        <a href="#bridge">Khoảnh khắc</a>
         <a href="#send">Lời nhắn</a>
       </div>
     </nav>
